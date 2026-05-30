@@ -1,63 +1,56 @@
 
-# Rinian Navarro
-
-## 🚀 About Me
-I am Navarro who enjoys electronics, Arduino projects, PCB design,  programming in C++, and creating simple design.
+# Project title
+ESP32-Expansion-board
 
 ---
 
-## 📍 Location
-San Jose
+## Project Description
+
+The ESP32 Expansion Board is a custom-designed hardware platform that extends the functionality of the ESP32 microcontroller by providing easy access to GPIO pins, power management circuitry, programming interfaces, and peripheral connections. The board simplifies the development of IoT, embedded systems, robotics, automation, and sensor-based applications by offering a reliable and organized interface for connecting external devices.
 
 ---
 
-## 🎯 Hobbies
-- 🎮 Playing online games 
-- 📖 Reading books
-- 💻 Coding
-- 🔌 Electronics Projects
-- 💡 Schematic diagram 
+## Features
 
+- GPIO Expansion
+- Multiple Power Options
+- ESP32 Devkit V1
 
 ---
 
-## 💻 Skills
+## Components
 
-| Skill | Level |
-|--------|--------|
-| C++ | Beginner |
-| Arduino | Beginner |
-| PCB Design | Beginner |
-|schematic design|Beginner|
-
----
-
-## 📂 Projects
-### 🔹 Arduino LED Blink
-Simple Arduino LED blinking project using C++.
-### 🔹 EasyEDA schematic 
-ESP32 Expansion board
-
-
-### 🔹 PCB Design Practice
-Created PCB layouts using EasyEDA.
-,Create Schematic using EasyEDA.
+- ESP32 DEVKIT V1
+- GPIO Headers
+- USB Connector
+- Voltage Regulator (3.3V)
+- Boot Button
+- Female/Male Expansion Headers
+- Ground and Power Rails
+  
 
 ---
 
-## 🍜 Favorite Food
-- Adobo
-- Fried Chicken
+## Software
 
----
-
-## 🔮 future  Goals 
-- create my own name and design.
-
-## 📫 Contact
-- GitHub: Rinian Navarro 
+EasyEda
+Gethub
+SnapMagic
 
 
 ---
 
-⭐ Thanks for visiting my portfolio!
+## Author
+
+- Rinian Navarro
+- Gmail:  riniannavaro@gmail.com
+-GetHub: Riniannavarro
+
+---
+
+## Courts/Section
+
+ECE / EN1B
+
+---
+
